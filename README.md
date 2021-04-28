@@ -1,5 +1,5 @@
 ## Hey 👋, This is Yuseok Son
-[![Github Badge](https://img.shields.io/badge/-handsoneu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/handsoneu/)](https://www.github.com/handsone-u/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/handsone-u/)](https://github.com/handsone-u/) 
+[![Github Badge](https://img.shields.io/badge/-handsoneu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/handsone-u/)](https://www.github.com/handsone-u/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/handsone-u/)](https://github.com/handsone-u/) 
 ## Some of my Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=handsone-u&show_icons=true&include_all_commits=true)](https://github.com/handsoneu/github-readme-stats)
