@@ -16,6 +16,6 @@
 ## Some of my Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=handsone-u&show_icons=true&include_all_commits=true)](https://github.com/handsone-u/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jk04172&layout=compact)](https://github.com/handsone-u/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handsone-u&layout=compact)](https://github.com/handsone-u/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk04172)](https://solved.ac/jk04172/)
