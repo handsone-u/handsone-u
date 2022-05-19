@@ -13,4 +13,4 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handsone-u&layout=compact)](https://github.com/handsone-u/)   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk04172)](https://solved.ac/jk04172/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk04172)](https://solved.ac/jk04172/)
