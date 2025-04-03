@@ -1,4 +1,3 @@
-
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Just as I enjoy learning natural languages, I love mastering programming languages that help me communicate with computers.</li><li> My goal is to translate human needs into reliable systems, understanding what people need, want, and might not even know they need yet to create solutions that truly connect with them. </div> 
