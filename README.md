@@ -13,6 +13,7 @@
 </div> 
 <h3 style="color: #282d33;">☁️ DevOps & Cloud</h3>
 <div style="text-align: left;">
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
@@ -33,8 +34,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
         <div> 
-            <img src="https://github-readme-stats.vercel.app/api?username=handsone-u&custom_title=handsone-u's%20Github%20Stats&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsone-u&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+            <img src="https://github-readme-stats.vercel.app/api?username=handsone-u&theme=cobalt" />
         </div> 
 </div>
     
