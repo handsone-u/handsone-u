@@ -8,8 +8,9 @@
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logoColor=white">
 </div> 
 <h3 style="color: #282d33;">☁️ DevOps & Cloud</h3>
 <div style="text-align: left;">
@@ -17,8 +18,9 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white">
+    <img src="https://img.shields.io/static/v1?label=&message=kafka&logo=apache-kafka&color=4f4f4f">
 </div>
 <h3 style="color: #282d33;">🗄️ Database</h3>
 <div style="text-align: left;">
@@ -30,11 +32,4 @@
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 </div>
-</div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-        <div> 
-            <img src="https://github-readme-stats.vercel.app/api?username=handsone-u&theme=cobalt" />
-        </div> 
-</div>
-    
+        
